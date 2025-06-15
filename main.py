@@ -1,7 +1,7 @@
 import speech_recognition as sr#this recognizes the speech as we say in verbally
 import webbrowser #this will connect us to browser so any questions asked will be answered 
 import pyttsx3#a module to convert text into voice 
-import musiclibrary#it helps to use many music using a variable as that variable contains the dictionary of music
+import musiclibrary#it helps to use many music using a variable as that variable contains the dictionary of music in this case its music from the file musiclibrary
 import requests # it is used to fetch data from API's and websites
 from openai import OpenAI# imports openai API
 import os # to import inbuilt operating system
